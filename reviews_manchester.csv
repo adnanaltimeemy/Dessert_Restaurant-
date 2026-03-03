@@ -1,0 +1,31 @@
+import pandas as pd
+
+# Create sample review data
+data = {
+    "review_id": [1, 2, 3, 4, 5],
+    "reviewer_name": ["Alice", "Ben", "Charlie", "Danielle", "Ethan"],
+    "location": ["Manchester"] * 5,
+    "rating": [5, 4, 3, 5, 2],
+    "review_text": [
+        "Amazing city with great culture and nightlife!",
+        "Really enjoyed the football stadium tour.",
+        "Weather was rainy but people were friendly.",
+        "Loved the music scene and food options.",
+        "Transport was confusing at times."
+    ],
+    "review_date": [
+        "2025-01-10",
+        "2025-01-15",
+        "2025-02-01",
+        "2025-02-10",
+        "2025-02-20"
+    ]
+}
+
+# Create DataFrame
+df = pd.DataFrame(data)
+
+# Save to CSV
+df.to_csv("reviews_manchester.csv", index=False)
+
+print("reviews_manchester.csv file created successfully.")

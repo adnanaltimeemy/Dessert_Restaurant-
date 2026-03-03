@@ -1,0 +1,11 @@
+Date,Order_ID,Product,Category,Quantity,Unit_Price,Total_Sales,Salesperson,Region
+2026-01-05,1001,Laptop,Electronics,2,750,1500,John Smith,Manchester
+2026-01-06,1002,Office Chair,Furniture,5,120,600,Sarah Jones,Manchester
+2026-01-07,1003,Smartphone,Electronics,3,500,1500,Ahmed Khan,Manchester
+2026-01-08,1004,Desk,Furniture,4,200,800,Emily Clark,Manchester
+2026-01-09,1005,Printer,Electronics,2,250,500,Michael Brown,Manchester
+2026-01-10,1006,Coffee Machine,Appliances,1,300,300,Olivia Taylor,Manchester
+2026-01-11,1007,Tablet,Electronics,6,350,2100,Daniel Wilson,Manchester
+2026-01-12,1008,Bookshelf,Furniture,3,150,450,Sophie Evans,Manchester
+2026-01-13,1009,Monitor,Electronics,4,220,880,James White,Manchester
+2026-01-14,1010,Microwave,Appliances,2,180,360,Chloe Harris,Manchester
