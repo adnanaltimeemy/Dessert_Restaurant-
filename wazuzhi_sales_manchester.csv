@@ -1,0 +1,17 @@
+OrderID,Date,CustomerName,Product,Category,Quantity,UnitPrice,TotalAmount,PaymentMethod,SalesRep
+1001,2026-01-05,John Smith,Green Tea
+250g,Beverages,3,4.50,13.50,Card,Alice Brown 1002,2026-01-06,Sarah
+Johnson,Jasmine Tea 100g,Beverages,5,3.20,16.00,Cash,Michael Lee
+1003,2026-01-07,David Wilson,Bamboo
+Teapot,Accessories,2,18.99,37.98,Card,Alice Brown 1004,2026-01-08,Emma
+Davis,Matcha Starter Kit,Specialty,1,29.99,29.99,Online,Chris Taylor
+1005,2026-01-09,Daniel Clark,Herbal Infusion
+Pack,Beverages,4,5.75,23.00,Card,Michael Lee 1006,2026-01-10,Olivia
+Martinez,Ceramic Tea Cups (Set of
+4),Accessories,2,22.50,45.00,Cash,Chris Taylor 1007,2026-01-11,James
+Anderson,Oolong Tea 200g,Beverages,3,6.40,19.20,Online,Alice Brown
+1008,2026-01-12,Sophia Thomas,Tea Storage
+Tin,Accessories,6,4.00,24.00,Card,Michael Lee 1009,2026-01-13,Benjamin
+White,Premium Matcha 50g,Specialty,2,15.00,30.00,Online,Chris Taylor
+1010,2026-01-14,Isabella Harris,Chamomile Tea
+150g,Beverages,5,3.80,19.00,Cash,Alice Brown
