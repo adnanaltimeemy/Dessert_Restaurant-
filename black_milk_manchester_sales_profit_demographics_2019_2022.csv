@@ -1,0 +1,5 @@
+Year,Total_Sales_GBP,Total_Profit_GBP,Online_Sales_Percentage,InStore_Sales_Percentage,Primary_Age_Group,Top_Gender,Local_Customers_Percentage,Tourist_Customers_Percentage
+2019,1250000,275000,58,42,18-25,Female,72,28
+2020,980000,190000,76,24,18-25,Female,81,19
+2021,1430000,310000,69,31,18-30,Female,75,25
+2022,1680000,420000,63,37,18-30,Female,70,30
