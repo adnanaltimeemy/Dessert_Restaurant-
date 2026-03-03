@@ -1,0 +1,16 @@
+review_id,date,product,rating,text,source,customer_id
+1,2025-01-03,Tofu Pudding,5,Absolutely loved the silky texture and sweetness not too overpowering,Google,1001
+2,2025-01-05,Korean Bingsu,4,Very refreshing and perfect after dinner but portion was slightly small,Google,1002
+3,2025-01-06,Red Bean Dessert,3,Taste was decent but a bit too sweet for my liking,Survey,1003
+4,2025-01-08,Mango Sago,5,Fresh mango and great presentation will definitely come back,Google,1004
+5,2025-01-10,Tofu Pudding,4,Good flavour and authentic Hong Kong style dessert,Instagram,1005
+6,2025-01-11,Korean Bingsu,2,Ice was too hard and not enough toppings,Google,1006
+7,2025-01-12,Mango Sago,5,Best dessert spot in Manchester hands down amazing service,Google,1007
+8,2025-01-15,Red Bean Dessert,4,Nice traditional flavour reminds me of home,Survey,1008
+9,2025-01-18,Tofu Pudding,3,Texture was good but portion size could be bigger,Google,1009
+10,2025-01-20,Korean Bingsu,5,Perfect balance of sweetness and texture highly recommend,Google,1010
+11,2025-01-22,Mango Sago,2,Too expensive for what you get,Survey,1011
+12,2025-01-25,Red Bean Dessert,5,Rich flavour and very comforting dessert,Google,1012
+13,2025-01-28,Tofu Pudding,4,Light and refreshing great after a heavy meal,Instagram,1013
+14,2025-02-01,Korean Bingsu,3,Good but waited too long during busy hours,Google,1014
+15,2025-02-03,Mango Sago,5,Authentic taste and friendly staff loved it,Google,1015
