@@ -1,0 +1,19 @@
+Crema Dolce - Manchester Branch Data
+
+File Name: crema_dolce_data_manchester.csv Location: Manchester, UK
+
+Sample Data Structure:
+
+Date,Item,Category,Quantity Sold,Unit Price (£),Total Revenue (£)
+
+2026-01-01,Latte,Coffee,120,3.50,420.00
+2026-01-01,Cappuccino,Coffee,95,3.20,304.00 2026-01-01,Chocolate
+Cake,Dessert,40,4.50,180.00 2026-01-02,Espresso,Coffee,130,2.80,364.00
+2026-01-02,Croissant,Pastry,60,2.40,144.00
+
+Description:
+
+This file contains sales data for the Manchester branch of Crema Dolce.
+The CSV file includes daily sales records with item categories,
+quantities sold, unit prices in GBP (£), and calculated total revenue
+per item.
