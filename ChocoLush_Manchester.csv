@@ -1,0 +1,30 @@
+BusinessID,BusinessName,Category,StreetAddress,City,Region,PostalCode,Country,Phone,Email,Website,OpeningHours,SeatingCapacity,AverageRating,TotalReviews,SignatureItem,SignatureItemPriceGBP,EstablishedYear,OwnerName,DeliveryAvailable,TakeawayAvailable,VegetarianOptions,VeganOptions,GlutenFreeOptions,LastInspectionScore,Latitude,Longitude
+
+CLM001,ChocoLush Manchester,Dessert Cafe,"14 Deansgate",Manchester,Greater Manchester,M3 1AZ,United Kingdom,+44 161 555 0198,info@chocolushmanchester.co.uk,www.chocolushmanchester.co.uk,"Mon-Thu 10:00-22:00; Fri-Sat 10:00-23:30; Sun 11:00-21:00",48,4.6,1287,"Belgian Triple Chocolate Waffle",8.95,2018,"Amelia Rahman",Yes,Yes,Yes,Yes,Yes,5,53.4808,-2.2426
+
+MenuID,BusinessID,ItemName,Category,Description,PriceGBP,Calories,ContainsNuts,ContainsDairy,ContainsGluten,Vegan,Vegetarian,PopularItem
+
+M001,CLM001,"Belgian Triple Chocolate Waffle",Waffles,"Fresh waffle topped with milk, dark and white Belgian chocolate, chocolate shavings and vanilla gelato",8.95,780,No,Yes,Yes,No,Yes,Yes
+M002,CLM001,"Strawberry Nutella Crepe",Crepes,"Thin crepe filled with Nutella and fresh strawberries dusted with icing sugar",7.50,640,Yes,Yes,Yes,No,Yes,Yes
+M003,CLM001,"Lotus Biscoff Cheesecake",Cheesecake,"Creamy baked cheesecake infused with Lotus Biscoff spread and biscuit base",6.95,520,No,Yes,Yes,No,Yes,Yes
+M004,CLM001,"Vegan Brownie Sundae",Sundaes,"Plant-based chocolate brownie with vegan vanilla ice cream and chocolate drizzle",7.95,610,No,No,Yes,Yes,Yes,No
+M005,CLM001,"Classic Milkshake",Drinks,"Thick milkshake available in chocolate, vanilla or strawberry",4.95,480,No,Yes,No,No,Yes,Yes
+M006,CLM001,"Hot Belgian Chocolate",Hot Drinks,"Rich melted Belgian chocolate served with whipped cream",4.50,390,No,Yes,No,No,Yes,Yes
+M007,CLM001,"Gluten-Free Chocolate Fudge Cake",Cakes,"Moist chocolate fudge cake made with gluten-free flour",6.50,450,No,Yes,No,No,Yes,No
+
+StaffID,BusinessID,FullName,Role,EmploymentType,StartDate,HourlyWageGBP,ShiftPattern
+
+S001,CLM001,"Hassan Malik",Store Manager,Full-Time,2019-03-15,13.50,"Tue-Sat Evenings"
+S002,CLM001,"Laura Bennett",Head Barista,Full-Time,2020-07-01,12.00,"Mon-Fri Mornings"
+S003,CLM001,"James O'Connor",Kitchen Supervisor,Full-Time,2018-11-20,12.75,"Wed-Sun Mixed"
+S004,CLM001,"Sofia Khan",Service Staff,Part-Time,2022-05-10,10.50,"Weekend Evenings"
+S005,CLM001,"Daniel Roberts",Service Staff,Part-Time,2023-01-08,10.50,"Fri-Sun Evenings"
+
+MonthlySalesID,BusinessID,Year,Month,TotalRevenueGBP,TotalOrders,AverageOrderValueGBP,OnlineOrdersPercentage
+
+MS001,CLM001,2024,January,38450.75,4210,9.14,38
+MS002,CLM001,2024,February,41230.60,4485,9.19,41
+MS003,CLM001,2024,March,45610.90,4932,9.24,44
+MS004,CLM001,2024,April,47220.40,5088,9.28,46
+MS005,CLM001,2024,May,49875.15,5321,9.37,49
+MS006,CLM001,2024,June,52340.80,5564,9.40,52
